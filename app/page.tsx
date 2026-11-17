@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main className="mx-auto max-w-2xl p-8">
+      <h1 className="text-2xl font-semibold">Todo App</h1>
+      <p className="mt-2 text-sm opacity-70">Phase 0 scaffold. Features arrive from Phase 1 onwards.</p>
+    </main>
+  );
+}
